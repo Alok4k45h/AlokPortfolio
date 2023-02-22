@@ -1,0 +1,41 @@
+.extra-section {
+  background-color: #fafafa;
+  padding: 40px;
+}
+.extra-section-sub-heading {
+  color: #157c68;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: bold;
+}
+.extra-section-heading {
+  color: #24282c;
+  font-family: "Roboto";
+  font-size: 36px;
+  font-weight: bold;
+}
+.extra-card {
+  background-color: #24282c;
+  padding: 20px;
+}
+.extra-card-image {
+  width: 100px;
+  height: 100px;
+  /* border-radius: 60px; */
+}
+.extra-card-description {
+  color: #9aa5b1;
+  font-family: "Roboto";
+  font-size: 18px;
+}
+.extra-card-person-name {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.carousel-arrow {
+  color: #157c68 !important;
+  background-color: #157c68 !important;
+}

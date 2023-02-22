@@ -1,0 +1,26 @@
+.project-item-card {
+  border-radius: 16px;
+  height: 410px;
+}
+
+.project-item-image {
+  border-radius: 16px;
+  height: 140px;
+}
+.project-card-title {
+  color: #24282c;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500px;
+}
+
+.project-card-desc {
+  color: #24282c;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+
+.project-icon {
+  height: 30px;
+  width: 30px;
+}

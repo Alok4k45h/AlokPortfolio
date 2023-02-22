@@ -1,0 +1,46 @@
+.edu-section {
+  background-color: #24282c;
+}
+
+.edu-section-img {
+  text-align: center;
+  height: 200px;
+}
+.edu-section-heading {
+  color: white;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 900;
+}
+.edu-section-description {
+  color: rgba(255, 255, 255, 0.848);
+  font-family: "Roboto";
+  font-size: 16px;
+}
+
+.edu-item-link {
+  color: white;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: 500;
+  border: none;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.edu-item-link:hover {
+  color: #157c68;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .edu-section-heading {
+    text-align: center;
+  }
+  .edu-section-description {
+    text-align: center;
+  }
+  .h-center {
+    text-align: center;
+  }
+}

@@ -1,0 +1,20 @@
+.intro-section-description {
+  color: #24282c;
+  font-family: "Roboto";
+  font-size: 24px;
+  text-align: left;
+  margin: 10px;
+}
+
+.AboutImage {
+  text-align: center;
+  height: 200px;
+}
+
+@media (max-width: 768px) {
+  .intro-section-description {
+    font-size: 20px;
+    text-align: left;
+    margin-left: 5px;
+  }
+}

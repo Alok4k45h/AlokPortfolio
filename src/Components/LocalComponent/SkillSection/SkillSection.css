@@ -1,0 +1,34 @@
+.skillset {
+  color: #24282c;
+  background-color: #fafafa;
+  transition: all 0.5s;
+  padding: 10px;
+}
+.skillset:hover {
+  color: #fafafa;
+  background-color: #24282c;
+  transform: scale(1.05);
+  box-shadow: none;
+}
+.skill-section-sub-heading {
+  color: #157c68;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.skill-section-heading {
+  font-family: "Roboto";
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.skill-list {
+  font-family: "Roboto";
+  font-size: 18px;
+}
+
+.code-icon {
+  height: 75px;
+  width: 75px;
+}
