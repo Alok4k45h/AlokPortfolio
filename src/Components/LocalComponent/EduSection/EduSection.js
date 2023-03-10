@@ -23,7 +23,7 @@ const universities = [
     name: "Jawahar Navodaya Vidyalaya Vaishali",
     degree: "Secondary School Education (CBSE-10th)",
     date: "June 2011- June 2016",
-    img: "https://e7.pngegg.com/pngimages/443/755/png-clipart-jawahar-navodaya-vidyalaya-ernakulam-central-board-of-secondary-education-school-government-of-india-school-text-logo.png",
+    img: "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Jawahar_Navodaya_Vidyalaya_logo.png/250px-Jawahar_Navodaya_Vidyalaya_logo.png",
     link: "https://navodaya.gov.in/nvs/nvs-school/VAISHALI/en/home/",
   },
 ];
